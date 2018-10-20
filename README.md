@@ -1,4 +1,4 @@
-# Pokemon Go EX-raid Map for Singapore
+# Pokemon Go EX-raid Map for Sydney
 
 Originally this project started out as a simple map to identify gyms in park. Over time it grew to be a useful collection of data points as well as for analysis. Therefore I am adapting this into a more general purpose mapping site that can be easily extended to other areas.
 
